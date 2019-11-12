@@ -6,7 +6,7 @@ This repository contains developer related background materials for the Linked A
 
 
 ## Linked Data Development Background
-A very general set of background documents on linked data and linked data technologies is available in the Zazuko Github organization repository [linked-data-training](https://github.com/zazuko/linked-data-training). These materials provide a reasonable starting point to understand the LANDRS development technology stack.
+A very general set of background documents on linked data and linked data technologies is available in the Zazuko Github organization repository [linked-data-training](https://github.com/zazuko/linked-data-training). These materials provide a reasonable starting point to understand the LANDRS development linked-data technology stack.
 
 ## Linked Data Frameworks
 Toolkits for developing using RDF, Ontologies and linked-data have been developed for many programming languages. The LANDRS project will focus on Python and Javascript technologies and will leverage the following technologies and frameworks.
@@ -56,12 +56,13 @@ We use [Zazuko Trifid](https://github.com/zazuko/trifid) as a linked data server
 * [W3C Decentralized Identifiers Core Spec](https://www.w3.org/TR/2019/WD-did-core-20191107/)
 
 ### Non-Standards Body Ontology Work
-* [Semantic Trajectory Episodes ](https://talespaiva.github.io/step/)
+* [Semantic Trajectory Episodes](https://talespaiva.github.io/step/)
 * [VSSo: a Vehicle Signals and Attribute Ontology](https://github.com/klotzbenjamin/vss-ontology)
 * [USGS Geographic Information Name Serviec (GNIS-LD)](https://gnis-ld.org/)
 
 ### Related Best Practices
 * [Spatial Data on the Web Best Practices](https://www.w3.org/TR/sdw-bp/)
+* [Data on the Web Best Practices](https://www.w3.org/TR/dwbp/)
 * [OGC API - Features - Part 1: Core](http://docs.opengeospatial.org/DRAFTS/17-069r1.html)
 * [Second Environmental Linked Features Experiment](https://github.com/opengeospatial/SELFIE)
 
@@ -76,5 +77,5 @@ We use [Zazuko Trifid](https://github.com/zazuko/trifid) as a linked data server
 * W3C standards for linked-data and web development
 
 ## Relevant Papers
-[GNIS-LD: Serving and Visualizing the Geographic Names Information System Gazetteer As Linked Data](http://geog.ucsb.edu/~regalia/paper/eswc2018.pdf)
-[GeoSPARQL-Jena: Implementation and Benchmarking of a GeoSPARQL Graphstore](http://www.semantic-web-journal.net/system/files/swj2108.pdf)
+* [GNIS-LD: Serving and Visualizing the Geographic Names Information System Gazetteer As Linked Data](http://geog.ucsb.edu/~regalia/paper/eswc2018.pdf)
+* [GeoSPARQL-Jena: Implementation and Benchmarking of a GeoSPARQL Graphstore](http://www.semantic-web-journal.net/system/files/swj2108.pdf)
