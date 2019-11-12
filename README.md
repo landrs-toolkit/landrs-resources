@@ -65,7 +65,8 @@ We use [Zazuko Trifid](https://github.com/zazuko/trifid) as a linked data server
 * [Data on the Web Best Practices](https://www.w3.org/TR/dwbp/)
 * [OGC API - Features - Part 1: Core](http://docs.opengeospatial.org/DRAFTS/17-069r1.html)
 * [Second Environmental Linked Features Experiment](https://github.com/opengeospatial/SELFIE)
-
+* [OGC Sensorthings API Documentation](https://developers.sensorup.com/docs/#introduction)
+* [Science On Schema.org](https://github.com/ESIPFed/science-on-schema.org)
 
 
 ## How we develop
