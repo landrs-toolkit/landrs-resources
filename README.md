@@ -88,3 +88,4 @@ We use [Zazuko Trifid](https://github.com/zazuko/trifid) as a linked data server
 * [Linked Data Shapes, Forms and Footprints -- TBL](https://www.w3.org/DesignIssues/Footprints.html)
 * [The Semantic Web identity crisis: in search of the trivialities that never were](https://ruben.verborgh.org/articles/the-semantic-web-identity-crisis/)
 * [Paradigm shifts for the decentralized Web As separate markets for data and apps emerge, Web development needs to adopt a new shape](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web)
+* [Designing a Linked Data developer experience Making decentralized Web app development fun](https://ruben.verborgh.org/blog/2018/12/28/designing-a-linked-data-developer-experience/)
