@@ -58,6 +58,7 @@ We use [Zazuko Trifid](https://github.com/zazuko/trifid) as a linked data server
 ### Non-Standards Body Ontology Work
 * [Semantic Trajectory Episodes](https://talespaiva.github.io/step/)
 * [VSSo: a Vehicle Signals and Attribute Ontology](https://github.com/klotzbenjamin/vss-ontology)
+* [W3C Automotive Business Group VSSo Draft](http://automotive.eurecom.fr/vsso)
 * [USGS Geographic Information Name Serviec (GNIS-LD)](https://gnis-ld.org/)
 
 ### Related Best Practices
@@ -67,7 +68,7 @@ We use [Zazuko Trifid](https://github.com/zazuko/trifid) as a linked data server
 * [Second Environmental Linked Features Experiment](https://github.com/opengeospatial/SELFIE)
 * [OGC Sensorthings API Documentation](https://developers.sensorup.com/docs/#introduction)
 * [Science On Schema.org](https://github.com/ESIPFed/science-on-schema.org)
-
+* [Vehicle Information Service Specification](https://www.w3.org/TR/vehicle-information-service/)
 
 ## How we develop
 * Test-driven development
@@ -77,6 +78,13 @@ We use [Zazuko Trifid](https://github.com/zazuko/trifid) as a linked data server
 * OGC standards for spatial data
 * W3C standards for linked-data and web development
 
-## Relevant Papers
+## Relevant References
 * [GNIS-LD: Serving and Visualizing the Geographic Names Information System Gazetteer As Linked Data](http://geog.ucsb.edu/~regalia/paper/eswc2018.pdf)
 * [GeoSPARQL-Jena: Implementation and Benchmarking of a GeoSPARQL Graphstore](http://www.semantic-web-journal.net/system/files/swj2108.pdf)
+
+## Blogs releated to developing linked data applications
+* [Shaping Linked Data apps](https://ruben.verborgh.org/blog/2019/06/17/shaping-linked-data-apps/)
+* [Piecing the puzzle: Self-publishing queryable research data on the Web](https://ruben.verborgh.org/articles/queryable-research-data)
+* [Linked Data Shapes, Forms and Footprints -- TBL](https://www.w3.org/DesignIssues/Footprints.html)
+* [The Semantic Web identity crisis: in search of the trivialities that never were](https://ruben.verborgh.org/articles/the-semantic-web-identity-crisis/)
+* [Paradigm shifts for the decentralized Web As separate markets for data and apps emerge, Web development needs to adopt a new shape](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web)
