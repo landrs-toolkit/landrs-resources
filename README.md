@@ -14,6 +14,7 @@ Toolkits for developing using RDF, Ontologies and linked-data have been develope
 *  [RDFLib](https://github.com/RDFLib/rdflib)
 *  [PySHACL](https://github.com/RDFLib/pySHACL)
 *  [pyLDAPI](https://github.com/RDFLib/pyLDAPI) Linked Data API
+*  [grlc builds Web APIs using shared SPARQL queries](https://github.com/CLARIAH/grlc)
 
 ### Javascript
 *  [RDF-ext library javascript library](https://github.com/rdf-ext/rdf-ext) General RDF Library
@@ -54,12 +55,21 @@ We use [Zazuko Trifid](https://github.com/zazuko/trifid) as a linked data server
 * [GeoSPARQL](https://www.opengeospatial.org/standards/geosparql)
 * [W3C Decentralized Identifiers Primer](https://w3c-ccg.github.io/did-primer/)
 * [W3C Decentralized Identifiers Core Spec](https://www.w3.org/TR/2019/WD-did-core-20191107/)
+* [RDF Data Cube](https://www.w3.org/TR/vocab-data-cube/)
+* [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
+
+### Image and Video Observations
+* [W3C Web Annotation Ontology](https://www.w3.org/ns/oa#)
+ - [W3C Web Annotation Working Group](https://github.com/w3c/web-annotation)
+* [IIIF Presentation API 2.1.1](https://iiif.io/api/presentation/2.1/)
+* [CLARIAH ](https://github.com/CLARIAH/scholarly-web-annotation-server/blob/master/discussion/comparing-iiif-and-web-annotation-models.md)
 
 ### Non-Standards Body Ontology Work
 * [Semantic Trajectory Episodes](https://talespaiva.github.io/step/)
 * [VSSo: a Vehicle Signals and Attribute Ontology](https://github.com/klotzbenjamin/vss-ontology)
 * [W3C Automotive Business Group VSSo Draft](http://automotive.eurecom.fr/vsso)
 * [USGS Geographic Information Name Serviec (GNIS-LD)](https://gnis-ld.org/)
+* [Allotrope Foundation Core Ontologies](http://docs.allotrope.org)
 
 ### Related Best Practices
 * [Spatial Data on the Web Best Practices](https://www.w3.org/TR/sdw-bp/)
@@ -81,6 +91,9 @@ We use [Zazuko Trifid](https://github.com/zazuko/trifid) as a linked data server
 ## Relevant References
 * [GNIS-LD: Serving and Visualizing the Geographic Names Information System Gazetteer As Linked Data](http://geog.ucsb.edu/~regalia/paper/eswc2018.pdf)
 * [GeoSPARQL-Jena: Implementation and Benchmarking of a GeoSPARQL Graphstore](http://www.semantic-web-journal.net/system/files/swj2108.pdf)
+* [On modeling linked open statistical data](https://www.sciencedirect.com/science/article/pii/S1570826818300544?via%3Dihub)
+* [W3C Workshop on Data Models for Transportation](https://www.w3.org/auto/events/data-ws-2019/schedule.html)
+* [Proper Attribution for Curation and Maintenance of Research Collections: Metadata Recommendations of the RDA/TDWG Working Group](https://datascience.codata.org/articles/10.5334/dsj-2019-054/)
 
 ## Blogs releated to developing linked data applications
 * [Shaping Linked Data apps](https://ruben.verborgh.org/blog/2019/06/17/shaping-linked-data-apps/)
