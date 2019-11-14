@@ -60,9 +60,9 @@ We use [Zazuko Trifid](https://github.com/zazuko/trifid) as a linked data server
 
 ### Image and Video Observations
 * [W3C Web Annotation Ontology](https://www.w3.org/ns/oa#)
- - [W3C Web Annotation Working Group](https://github.com/w3c/web-annotation)
+* [W3C Web Annotation Working Group](https://github.com/w3c/web-annotation)
 * [IIIF Presentation API 2.1.1](https://iiif.io/api/presentation/2.1/)
-* [CLARIAH ](https://github.com/CLARIAH/scholarly-web-annotation-server/blob/master/discussion/comparing-iiif-and-web-annotation-models.md)
+* [CLARIAH Project using IIIF](https://github.com/CLARIAH/scholarly-web-annotation-server/blob/master/discussion/comparing-iiif-and-web-annotation-models.md)
 
 ### Non-Standards Body Ontology Work
 * [Semantic Trajectory Episodes](https://talespaiva.github.io/step/)
