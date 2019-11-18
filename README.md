@@ -29,6 +29,7 @@ To facilitate rapid prototyping and development, LANDRS will leverage the follow
 * [hydra-box](https://github.com/zazuko/hydra-box) for creating Hydra Core based api endpoints
 * [Alcaeus](https://github.com/wikibus/Alcaeus) Promise-based library for consuming Hydra APIs
 * [hypermedia-app](https://github.com/hypermedia-app) Javascript libraries for hydra based web development.
+* [Youtube of RESTFest Presentation on Alcaeus](https://youtu.be/F3Z6qye3LrE)
 
 Examples of these technologies in action include.
 * [Wikibus](https://github.com/wikibus/sources.wikibus.org) as a hydra-box demonstrator endpoint for public transportation using linked data technologies.
