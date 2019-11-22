@@ -81,6 +81,12 @@ We use [Zazuko Trifid](https://github.com/zazuko/trifid) as a linked data server
 * [Science On Schema.org](https://github.com/ESIPFed/science-on-schema.org)
 * [Vehicle Information Service Specification](https://www.w3.org/TR/vehicle-information-service/)
 
+### FAA, NASA Ontologies for Aircraft
+* [OGC Testbed-14: Semantically Enabled Aviation Data Models Engineering Report](http://docs.opengeospatial.org/per/18-035.html#_resolvable_uri)
+* [The NASA Air Traffic Management Ontology](https://data.nasa.gov/ontologies/atmonto/ATM#ontoClasses)
+* [Open repository for use by the international aviation community](https://semantics.aero/)
+* [FAA Service Semantics](https://www.faa.gov/air_traffic/technology/swim/governance/service_semantics/)
+
 ## How we develop
 * Test-driven development
 * User stories
