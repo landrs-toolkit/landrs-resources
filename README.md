@@ -43,6 +43,8 @@ The Apache Jena Project maintains an open source triple store the has recently i
 
 We use [Zazuko Trifid](https://github.com/zazuko/trifid) as a linked data server and proxy for the Fuseki triple store. Additionally Trifid has the [Yasgui](https://github.com/TriplyDB/YASGUI) SPARQL query editor integrated into it's web interface. Vocabularies and ontologies are developed using [Zazuko Ontology Manager](https://zazuko.com/products/ontology-manager/).
 
+For on Drone appliance development a similar approach to the [Linked Time Series](https://github.com/linkedtimeseries/ngsi-ldf) experiment will be explored using the lightweight [triple pattern fragments](https://linkeddatafragments.org/) which also uses [hydra](https://www.hydra-cg.com/spec/latest/triple-pattern-fragments/) to expose hypermedia controls for knowledge graph fragments.
+
 ## Existing Vocabularies and Ontologies
 * [W3C Semantic Sensor Network (SOSA)](https://www.w3.org/TR/vocab-ssn/)
 * [W3C Semantic Sensor Network Extensions (SOSA-EXT)](https://w3c.github.io/sdw/proposals/ssn-extensions/)
