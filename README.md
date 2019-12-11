@@ -17,9 +17,11 @@ Toolkits for developing using RDF, Ontologies and linked-data have been develope
 *  [grlc builds Web APIs using shared SPARQL queries](https://github.com/CLARIAH/grlc)
 
 ### Javascript
-*  [RDF-ext library javascript library](https://github.com/rdf-ext/rdf-ext) General RDF Library
+*  [RDFJS](https://github.com/rdfjs) The RDFJS Representation Task Force creates specifications for JavaScript RDF library interoperability.
+*  [RDFJS-Base](https://github.com/rdfjs-base) JS library implementations of RDFJS specifications.
 *  [RDF-ext](https://github.com/rdf-ext) Toolkits using [RDF JAVASCRIPT LIBRARIES COMMUNITY GROUP
 ](https://www.w3.org/community/rdfjs/) data model [recommendation](http://rdf.js.org/data-model-spec/). The community group also has a [Github repository](https://github.com/rdfjs) where the model specifications are located.
+* [Who says using RDF is hard?](https://www.rubensworks.net/blog/2019/10/06/using-rdf-in-javascript/) Blogpost with an overview of JS tools for RDF.
 
 ### Hydra Core Vocabulary
 API documentation for LANDRS convenience APIs should use the [Hydra W3C Community Group](https://www.hydra-cg.com/spec/latest/core/) recommendation for A Vocabulary for Hypermedia-Driven Web APIs as a first class citizen. Cross-walks can be provided to other API documentation representations such as [OpenAPI](https://swagger.io/specification/). In serializing of linked API we will preferably use [JSON-LD 1.1](https://www.w3.org/TR/json-ld11/) and [Turtle](https://www.w3.org/TR/turtle/).
